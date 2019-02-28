@@ -1,5 +1,4 @@
 {
-  "version": 2,
   "alias": "now.tobiastrinks.com",
   "type": "docker",
   "features": {
